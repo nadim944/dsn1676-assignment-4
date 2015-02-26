@@ -1,5 +1,6 @@
 h1 {
     color: #990000;
+    margin-bottom: auto;
 }
 
 body {
@@ -16,4 +17,8 @@ dt {
 dd {
     margin: auto;
     font-size: 1em;
+}
+
+dl {
+    margin-top: 0;
 }
