@@ -56,10 +56,4 @@ var writeFruit = function (fruits) {
 };
 
 var allFruit = [blueberries, grapes, redCurrant];
-allFruit.forEach(writeFruit)
-
-    
-    
-    
-    
-                    
+allFruit.forEach(writeFruit)                 
